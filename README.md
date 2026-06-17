@@ -15,6 +15,22 @@ The application uses Natural Language Processing (NLP) techniques and a Multinom
 * Flask web application interface
 * Real-time prediction results
 
+## Project Screenshots
+
+### 🏠 Home Page
+
+![Home Page](screenshots/home_page.png)
+
+This is the main interface where user enters a YouTube comment for prediction.
+
+---
+
+### 🚨 Spam Detection Result
+
+![Spam Result](screenshots/spam_prediction.png)
+
+The model predicts whether the entered comment is Spam or Not Spam.
+
 ## Technologies Used
 
 * Python
